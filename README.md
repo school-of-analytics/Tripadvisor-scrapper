@@ -2,4 +2,4 @@
 Project on stremlit UI framework
 
 The Project link:
-https://tripadvisorscrapper.herokuapp.com/
+https://tripav.herokuapp.com/
